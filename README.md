@@ -4,7 +4,7 @@
 
 > **Portfolio project** · Source code is maintained in a private repository.
 
-[**View project on GitHub →**](https://github.com/adityajain28/BlckWhte-Showcase)
+[**GitHub Showcase →**](https://github.com/adityajain28/BlckWhte-Showcase)
 
 One player creates a game and receives a six-digit room code. Everyone else joins from a browser. The server coordinates the lobby, rotating giver/guesser roles, guesses, scoring, timers, reconnects, and round progression in real time.
 
@@ -151,12 +151,6 @@ Round transitions are controlled by the server rather than individual clients. T
 
 ---
 
-## Screenshots
-
-Real screenshots from the running application are being included here without exposing the private source code.
-
----
-
 ## What I focused on
 
 This project was primarily an exercise in building a complete multiplayer experience rather than a static front-end demo.
@@ -189,6 +183,6 @@ The parts I focused on most were:
 
 The application source code is kept in a **private repository**.
 
-This public repository is intentionally limited to product documentation, architecture, screenshots, and engineering context.
+This public repository is intentionally limited to product documentation, architecture, and engineering context.
 
 **Source access can be provided during an interview or technical review when appropriate.**
