@@ -4,11 +4,29 @@
 
 > **Portfolio project** · Source code is maintained in a private repository.
 
-[**GitHub Showcase →**](https://github.com/adityajain28/BlckWhte-Showcase)
+### [▶ Play the live game](https://blckwhte.onrender.com)
 
 One player creates a game and receives a six-digit room code. Everyone else joins from a browser. The server coordinates the lobby, rotating giver/guesser roles, guesses, scoring, timers, reconnects, and round progression in real time.
 
 The game can run over the internet or entirely on a local Wi-Fi network, making it usable even when internet access is unavailable.
+
+---
+
+## Live product
+
+These screenshots were captured directly from the deployed application at **blckwhte.onrender.com** using separate real browser sessions for the players.
+
+### Create or join a game
+
+![BlckWhte live home screen](assets/live-home.png)
+
+### Multiplayer lobby
+
+![BlckWhte live three-player lobby](assets/live-lobby.png)
+
+### Gameplay
+
+![BlckWhte live gameplay](assets/live-gameplay.png)
 
 ---
 
@@ -130,7 +148,7 @@ Because the Node.js server can bind to the host machine's local network address,
 | Client | HTML, CSS, JavaScript |
 | Game state | In-memory room model |
 | Recovery | JSON state snapshots |
-| Deployment | Node-compatible web hosting |
+| Deployment | Render / Node-compatible web hosting |
 | Local multiplayer | LAN / Wi-Fi / mobile hotspot |
 
 ---
@@ -183,6 +201,6 @@ The parts I focused on most were:
 
 The application source code is kept in a **private repository**.
 
-This public repository is intentionally limited to product documentation, architecture, and engineering context.
+This public repository is intentionally limited to product documentation, architecture, screenshots, and engineering context.
 
 **Source access can be provided during an interview or technical review when appropriate.**
