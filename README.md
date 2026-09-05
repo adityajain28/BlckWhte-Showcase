@@ -4,6 +4,8 @@
 
 > **Portfolio project** · Source code is maintained in a private repository.
 
+[**View project on GitHub →**](https://github.com/adityajain28/BlckWhte-Showcase)
+
 One player creates a game and receives a six-digit room code. Everyone else joins from a browser. The server coordinates the lobby, rotating giver/guesser roles, guesses, scoring, timers, reconnects, and round progression in real time.
 
 The game can run over the internet or entirely on a local Wi-Fi network, making it usable even when internet access is unavailable.
@@ -151,9 +153,7 @@ Round transitions are controlled by the server rather than individual clients. T
 
 ## Screenshots
 
-Screenshots will be added here without exposing application source code.
-
-Recommended captures: home/create-or-join, lobby with room code, guesser screen, giver progress view, round results/leaderboard, and mobile view.
+Real screenshots from the running application are being included here without exposing the private source code.
 
 ---
 
